@@ -1,0 +1,6 @@
+@Digify_HostAddress = http://localhost:5283
+
+GET {{Digify_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

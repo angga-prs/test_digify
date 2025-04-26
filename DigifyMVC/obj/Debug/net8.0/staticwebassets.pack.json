@@ -1,0 +1,613 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DigifyMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DigifyMVC.a1f30zivdf.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\css\\fonts-segoeui.css",
+      "PackagePath": "staticwebassets\\css\\fonts-segoeui.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\css\\icon-ppcs.css",
+      "PackagePath": "staticwebassets\\css\\icon-ppcs.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._.DS_Store",
+      "PackagePath": "staticwebassets\\img\\._.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._barcode-demo.png",
+      "PackagePath": "staticwebassets\\img\\._barcode-demo.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._chart-donut.png",
+      "PackagePath": "staticwebassets\\img\\._chart-donut.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._chart-lines.png",
+      "PackagePath": "staticwebassets\\img\\._chart-lines.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._chartimg.png",
+      "PackagePath": "staticwebassets\\img\\._chartimg.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._demo-attachmentwidget.png",
+      "PackagePath": "staticwebassets\\img\\._demo-attachmentwidget.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._icon-streamline-grap.svg",
+      "PackagePath": "staticwebassets\\img\\._icon-streamline-grap.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._ilustrasi-1.svg",
+      "PackagePath": "staticwebassets\\img\\._ilustrasi-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._ilustrasi-compliment.png",
+      "PackagePath": "staticwebassets\\img\\._ilustrasi-compliment.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._ilustrasi-notfound.png",
+      "PackagePath": "staticwebassets\\img\\._ilustrasi-notfound.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._img_edit.svg",
+      "PackagePath": "staticwebassets\\img\\._img_edit.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._img_notif_outline.svg",
+      "PackagePath": "staticwebassets\\img\\._img_notif_outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._img_rfi.svg",
+      "PackagePath": "staticwebassets\\img\\._img_rfi.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._img_rfi_light_blue_800 (1).svg",
+      "PackagePath": "staticwebassets\\img\\._img_rfi_light_blue_800 (1).svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._img_rfi_light_blue_800.svg",
+      "PackagePath": "staticwebassets\\img\\._img_rfi_light_blue_800.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._logo-apps-large.svg",
+      "PackagePath": "staticwebassets\\img\\._logo-apps-large.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._photo1.png",
+      "PackagePath": "staticwebassets\\img\\._photo1.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._photo2.png",
+      "PackagePath": "staticwebassets\\img\\._photo2.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._photo3.jpg",
+      "PackagePath": "staticwebassets\\img\\._photo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._photo4.jpg",
+      "PackagePath": "staticwebassets\\img\\._photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\._user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\._user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\img\\._user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\2okeoke.png",
+      "PackagePath": "staticwebassets\\img\\2okeoke.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\AKHLAK-outline.svg",
+      "PackagePath": "staticwebassets\\img\\AKHLAK-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\AKHLAK-solid.svg",
+      "PackagePath": "staticwebassets\\img\\AKHLAK-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\EPI-outline.svg",
+      "PackagePath": "staticwebassets\\img\\EPI-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\EPI-solid.svg",
+      "PackagePath": "staticwebassets\\img\\EPI-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\barcode-demo.png",
+      "PackagePath": "staticwebassets\\img\\barcode-demo.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\calendar-outline.svg",
+      "PackagePath": "staticwebassets\\img\\calendar-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\calendar-solid.svg",
+      "PackagePath": "staticwebassets\\img\\calendar-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\chart-donut.png",
+      "PackagePath": "staticwebassets\\img\\chart-donut.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\chart-lines.png",
+      "PackagePath": "staticwebassets\\img\\chart-lines.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\chartimg.png",
+      "PackagePath": "staticwebassets\\img\\chartimg.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\demo-attachmentwidget.png",
+      "PackagePath": "staticwebassets\\img\\demo-attachmentwidget.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\disk.png",
+      "PackagePath": "staticwebassets\\img\\disk.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\header.png",
+      "PackagePath": "staticwebassets\\img\\header.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\home-outline.svg",
+      "PackagePath": "staticwebassets\\img\\home-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\home-solid.svg",
+      "PackagePath": "staticwebassets\\img\\home-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\icon-PDF-file-solid.svg",
+      "PackagePath": "staticwebassets\\img\\icon-PDF-file-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\icon-add-task.svg",
+      "PackagePath": "staticwebassets\\img\\icon-add-task.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\icon-arrow-down.svg",
+      "PackagePath": "staticwebassets\\img\\icon-arrow-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\icon-arrow-up-doc.svg",
+      "PackagePath": "staticwebassets\\img\\icon-arrow-up-doc.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\icon-contract-sign.svg",
+      "PackagePath": "staticwebassets\\img\\icon-contract-sign.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\icon-dashboard-clarification.svg",
+      "PackagePath": "staticwebassets\\img\\icon-dashboard-clarification.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\icon-download-cloud.svg",
+      "PackagePath": "staticwebassets\\img\\icon-download-cloud.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\icon-form-outline.svg",
+      "PackagePath": "staticwebassets\\img\\icon-form-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\icon-inbox.svg",
+      "PackagePath": "staticwebassets\\img\\icon-inbox.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\icon-outline-question-answer.svg",
+      "PackagePath": "staticwebassets\\img\\icon-outline-question-answer.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\icon-outline-upload-file.svg",
+      "PackagePath": "staticwebassets\\img\\icon-outline-upload-file.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\icon-send-outline.svg",
+      "PackagePath": "staticwebassets\\img\\icon-send-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\icon-streamline-grap.svg",
+      "PackagePath": "staticwebassets\\img\\icon-streamline-grap.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\icon-unread-inbox.svg",
+      "PackagePath": "staticwebassets\\img\\icon-unread-inbox.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\icon-upload-file-solid.svg",
+      "PackagePath": "staticwebassets\\img\\icon-upload-file-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\ilustrasi-1.svg",
+      "PackagePath": "staticwebassets\\img\\ilustrasi-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\ilustrasi-compliment.png",
+      "PackagePath": "staticwebassets\\img\\ilustrasi-compliment.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\ilustrasi-notfound.png",
+      "PackagePath": "staticwebassets\\img\\ilustrasi-notfound.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\img_edit.svg",
+      "PackagePath": "staticwebassets\\img\\img_edit.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\img_notif_outline.svg",
+      "PackagePath": "staticwebassets\\img\\img_notif_outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\img_rfi.svg",
+      "PackagePath": "staticwebassets\\img\\img_rfi.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\img_rfi_light_blue_800 (1).svg",
+      "PackagePath": "staticwebassets\\img\\img_rfi_light_blue_800 (1).svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\img_rfi_light_blue_800.svg",
+      "PackagePath": "staticwebassets\\img\\img_rfi_light_blue_800.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\kotakkotak.jpg",
+      "PackagePath": "staticwebassets\\img\\kotakkotak.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\linesna.png",
+      "PackagePath": "staticwebassets\\img\\linesna.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\logo-apps-large.svg",
+      "PackagePath": "staticwebassets\\img\\logo-apps-large.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\logo-pertamina-icon.svg",
+      "PackagePath": "staticwebassets\\img\\logo-pertamina-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\okeoke2.jpg",
+      "PackagePath": "staticwebassets\\img\\okeoke2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\operation-outline.svg",
+      "PackagePath": "staticwebassets\\img\\operation-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\operation-solid.svg",
+      "PackagePath": "staticwebassets\\img\\operation-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\img\\photo1.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\img\\photo2.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\img\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\img\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\secretary-outline.svg",
+      "PackagePath": "staticwebassets\\img\\secretary-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\secretary-solid.svg",
+      "PackagePath": "staticwebassets\\img\\secretary-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\send.png",
+      "PackagePath": "staticwebassets\\img\\send.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\statistic-outline.svg",
+      "PackagePath": "staticwebassets\\img\\statistic-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\statistic-solid.svg",
+      "PackagePath": "staticwebassets\\img\\statistic-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\workpackage-outline.svg",
+      "PackagePath": "staticwebassets\\img\\workpackage-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\workpackage-solid.svg",
+      "PackagePath": "staticwebassets\\img\\workpackage-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\img\\ww.png",
+      "PackagePath": "staticwebassets\\img\\ww.png"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\angga\\source\\repos\\Digify\\DigifyMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DigifyMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DigifyMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DigifyMVC.props",
+      "PackagePath": "build\\DigifyMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DigifyMVC.props",
+      "PackagePath": "buildMultiTargeting\\DigifyMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DigifyMVC.props",
+      "PackagePath": "buildTransitive\\DigifyMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

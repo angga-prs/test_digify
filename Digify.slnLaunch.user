@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Digify\\DigifyAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DigifyMVC\\DigifyMVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

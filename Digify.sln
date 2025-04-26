@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigifyAPI", "Digify\DigifyAPI.csproj", "{46CA0BAD-27CA-4395-B99C-01D25CEC1871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigifyMVC", "DigifyMVC\DigifyMVC.csproj", "{66E87824-FFCF-471A-BD26-9BA1F680BE97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46CA0BAD-27CA-4395-B99C-01D25CEC1871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CA0BAD-27CA-4395-B99C-01D25CEC1871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CA0BAD-27CA-4395-B99C-01D25CEC1871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CA0BAD-27CA-4395-B99C-01D25CEC1871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E87824-FFCF-471A-BD26-9BA1F680BE97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E87824-FFCF-471A-BD26-9BA1F680BE97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E87824-FFCF-471A-BD26-9BA1F680BE97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E87824-FFCF-471A-BD26-9BA1F680BE97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDF8A9C1-311D-4A1C-8ACD-B3131BA42391}
+	EndGlobalSection
+EndGlobal

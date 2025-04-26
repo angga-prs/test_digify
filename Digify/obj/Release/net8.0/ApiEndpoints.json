@@ -1,0 +1,73 @@
+[
+  {
+    "ContainingType": "DigifyAPI.Controllers.CompanyRegistrationController",
+    "Method": "PostCompany",
+    "RelativePath": "api/CompanyRegistration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "CompanyName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NPWP",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DirectorName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PICName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PhoneNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NPWPFilePath",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PowerOfAttorneyFilePath",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IsInvitationAccessAllowed",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "NPWPFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "PowerOfAttorneyFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

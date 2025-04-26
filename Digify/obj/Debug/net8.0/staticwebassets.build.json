@@ -1,0 +1,1670 @@
+{
+  "Version": 1,
+  "Hash": "XCHmusGtmu0rJEx/lknMDvlC0oluUVC5cTIIaoZeZBg=",
+  "Source": "DigifyAPI",
+  "BasePath": "_content/DigifyAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DigifyAPI\\wwwroot",
+      "Source": "DigifyAPI",
+      "ContentRoot": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\",
+      "BasePath": "_content/DigifyAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\0dcadd81-0a2e-4e8e-a97b-44d2a52849c1.png",
+      "SourceId": "DigifyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\",
+      "BasePath": "_content/DigifyAPI",
+      "RelativePath": "uploads/0dcadd81-0a2e-4e8e-a97b-44d2a52849c1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "344dafdxea",
+      "Integrity": "E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\0dcadd81-0a2e-4e8e-a97b-44d2a52849c1.png"
+    },
+    {
+      "Identity": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\55c12b4a-9c2a-4657-b42f-d51ba4f1681a.png",
+      "SourceId": "DigifyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\",
+      "BasePath": "_content/DigifyAPI",
+      "RelativePath": "uploads/55c12b4a-9c2a-4657-b42f-d51ba4f1681a#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "344dafdxea",
+      "Integrity": "E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\55c12b4a-9c2a-4657-b42f-d51ba4f1681a.png"
+    },
+    {
+      "Identity": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\5cf0ff0c-08c0-4eed-a796-da0d9bda29a3.png",
+      "SourceId": "DigifyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\",
+      "BasePath": "_content/DigifyAPI",
+      "RelativePath": "uploads/5cf0ff0c-08c0-4eed-a796-da0d9bda29a3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gl5ofww9f3",
+      "Integrity": "VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\5cf0ff0c-08c0-4eed-a796-da0d9bda29a3.png"
+    },
+    {
+      "Identity": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\627a1747-7b06-4725-aa99-0c70b1806cd7.png",
+      "SourceId": "DigifyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\",
+      "BasePath": "_content/DigifyAPI",
+      "RelativePath": "uploads/627a1747-7b06-4725-aa99-0c70b1806cd7#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "344dafdxea",
+      "Integrity": "E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\627a1747-7b06-4725-aa99-0c70b1806cd7.png"
+    },
+    {
+      "Identity": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\766495db-828d-4220-afcf-0025fa97bc4d.png",
+      "SourceId": "DigifyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\",
+      "BasePath": "_content/DigifyAPI",
+      "RelativePath": "uploads/766495db-828d-4220-afcf-0025fa97bc4d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gl5ofww9f3",
+      "Integrity": "VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\766495db-828d-4220-afcf-0025fa97bc4d.png"
+    },
+    {
+      "Identity": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\8a2c8813-a5bb-4d91-bb9e-436464f081f8.png",
+      "SourceId": "DigifyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\",
+      "BasePath": "_content/DigifyAPI",
+      "RelativePath": "uploads/8a2c8813-a5bb-4d91-bb9e-436464f081f8#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "344dafdxea",
+      "Integrity": "E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8a2c8813-a5bb-4d91-bb9e-436464f081f8.png"
+    },
+    {
+      "Identity": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\905039d6-fccf-4a5e-82ce-660285d91186.png",
+      "SourceId": "DigifyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\",
+      "BasePath": "_content/DigifyAPI",
+      "RelativePath": "uploads/905039d6-fccf-4a5e-82ce-660285d91186#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "344dafdxea",
+      "Integrity": "E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\905039d6-fccf-4a5e-82ce-660285d91186.png"
+    },
+    {
+      "Identity": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\92c013db-2d90-4f8a-851c-5a07ccf9553f.png",
+      "SourceId": "DigifyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\",
+      "BasePath": "_content/DigifyAPI",
+      "RelativePath": "uploads/92c013db-2d90-4f8a-851c-5a07ccf9553f#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gl5ofww9f3",
+      "Integrity": "VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\92c013db-2d90-4f8a-851c-5a07ccf9553f.png"
+    },
+    {
+      "Identity": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\b4949ec0-2c1c-47bf-815a-0dee76339e26.png",
+      "SourceId": "DigifyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\",
+      "BasePath": "_content/DigifyAPI",
+      "RelativePath": "uploads/b4949ec0-2c1c-47bf-815a-0dee76339e26#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gl5ofww9f3",
+      "Integrity": "VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\b4949ec0-2c1c-47bf-815a-0dee76339e26.png"
+    },
+    {
+      "Identity": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\b69f7208-6484-4d94-824b-f7abfdb92eea.png",
+      "SourceId": "DigifyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\",
+      "BasePath": "_content/DigifyAPI",
+      "RelativePath": "uploads/b69f7208-6484-4d94-824b-f7abfdb92eea#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "344dafdxea",
+      "Integrity": "E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\b69f7208-6484-4d94-824b-f7abfdb92eea.png"
+    },
+    {
+      "Identity": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\b87d39f0-2ee3-41e2-bd3b-cc6389c9d6fd.png",
+      "SourceId": "DigifyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\",
+      "BasePath": "_content/DigifyAPI",
+      "RelativePath": "uploads/b87d39f0-2ee3-41e2-bd3b-cc6389c9d6fd#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gl5ofww9f3",
+      "Integrity": "VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\b87d39f0-2ee3-41e2-bd3b-cc6389c9d6fd.png"
+    },
+    {
+      "Identity": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\d03830de-ffc6-4388-9eeb-fe52bc9612a6.png",
+      "SourceId": "DigifyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\",
+      "BasePath": "_content/DigifyAPI",
+      "RelativePath": "uploads/d03830de-ffc6-4388-9eeb-fe52bc9612a6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gl5ofww9f3",
+      "Integrity": "VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d03830de-ffc6-4388-9eeb-fe52bc9612a6.png"
+    },
+    {
+      "Identity": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\d3053d76-cc74-4497-a58d-4b74e55661a8.png",
+      "SourceId": "DigifyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\",
+      "BasePath": "_content/DigifyAPI",
+      "RelativePath": "uploads/d3053d76-cc74-4497-a58d-4b74e55661a8#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "344dafdxea",
+      "Integrity": "E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d3053d76-cc74-4497-a58d-4b74e55661a8.png"
+    },
+    {
+      "Identity": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\daaa1b62-e735-45ce-b19b-eb1c66edeb34.png",
+      "SourceId": "DigifyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\",
+      "BasePath": "_content/DigifyAPI",
+      "RelativePath": "uploads/daaa1b62-e735-45ce-b19b-eb1c66edeb34#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gl5ofww9f3",
+      "Integrity": "VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\daaa1b62-e735-45ce-b19b-eb1c66edeb34.png"
+    },
+    {
+      "Identity": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\e40a5a4c-2d2b-4600-9cbc-ae225dd95075.png",
+      "SourceId": "DigifyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\",
+      "BasePath": "_content/DigifyAPI",
+      "RelativePath": "uploads/e40a5a4c-2d2b-4600-9cbc-ae225dd95075#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gl5ofww9f3",
+      "Integrity": "VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\e40a5a4c-2d2b-4600-9cbc-ae225dd95075.png"
+    },
+    {
+      "Identity": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\f4c40c89-47f8-4515-a964-a6ae3dd65789.png",
+      "SourceId": "DigifyAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\",
+      "BasePath": "_content/DigifyAPI",
+      "RelativePath": "uploads/f4c40c89-47f8-4515-a964-a6ae3dd65789#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "344dafdxea",
+      "Integrity": "E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\f4c40c89-47f8-4515-a964-a6ae3dd65789.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/0dcadd81-0a2e-4e8e-a97b-44d2a52849c1.344dafdxea.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\0dcadd81-0a2e-4e8e-a97b-44d2a52849c1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:35:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "344dafdxea"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/0dcadd81-0a2e-4e8e-a97b-44d2a52849c1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0dcadd81-0a2e-4e8e-a97b-44d2a52849c1.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\0dcadd81-0a2e-4e8e-a97b-44d2a52849c1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:35:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/55c12b4a-9c2a-4657-b42f-d51ba4f1681a.344dafdxea.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\55c12b4a-9c2a-4657-b42f-d51ba4f1681a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:38:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "344dafdxea"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/55c12b4a-9c2a-4657-b42f-d51ba4f1681a.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/55c12b4a-9c2a-4657-b42f-d51ba4f1681a.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\55c12b4a-9c2a-4657-b42f-d51ba4f1681a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:38:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5cf0ff0c-08c0-4eed-a796-da0d9bda29a3.gl5ofww9f3.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\5cf0ff0c-08c0-4eed-a796-da0d9bda29a3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:42:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gl5ofww9f3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/5cf0ff0c-08c0-4eed-a796-da0d9bda29a3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5cf0ff0c-08c0-4eed-a796-da0d9bda29a3.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\5cf0ff0c-08c0-4eed-a796-da0d9bda29a3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:42:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/627a1747-7b06-4725-aa99-0c70b1806cd7.344dafdxea.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\627a1747-7b06-4725-aa99-0c70b1806cd7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:41:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "344dafdxea"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/627a1747-7b06-4725-aa99-0c70b1806cd7.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/627a1747-7b06-4725-aa99-0c70b1806cd7.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\627a1747-7b06-4725-aa99-0c70b1806cd7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:41:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/766495db-828d-4220-afcf-0025fa97bc4d.gl5ofww9f3.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\766495db-828d-4220-afcf-0025fa97bc4d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gl5ofww9f3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/766495db-828d-4220-afcf-0025fa97bc4d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/766495db-828d-4220-afcf-0025fa97bc4d.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\766495db-828d-4220-afcf-0025fa97bc4d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8a2c8813-a5bb-4d91-bb9e-436464f081f8.344dafdxea.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\8a2c8813-a5bb-4d91-bb9e-436464f081f8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:31:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "344dafdxea"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/8a2c8813-a5bb-4d91-bb9e-436464f081f8.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8a2c8813-a5bb-4d91-bb9e-436464f081f8.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\8a2c8813-a5bb-4d91-bb9e-436464f081f8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:31:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/905039d6-fccf-4a5e-82ce-660285d91186.344dafdxea.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\905039d6-fccf-4a5e-82ce-660285d91186.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:33:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "344dafdxea"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/905039d6-fccf-4a5e-82ce-660285d91186.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/905039d6-fccf-4a5e-82ce-660285d91186.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\905039d6-fccf-4a5e-82ce-660285d91186.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:33:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/92c013db-2d90-4f8a-851c-5a07ccf9553f.gl5ofww9f3.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\92c013db-2d90-4f8a-851c-5a07ccf9553f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:35:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gl5ofww9f3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/92c013db-2d90-4f8a-851c-5a07ccf9553f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/92c013db-2d90-4f8a-851c-5a07ccf9553f.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\92c013db-2d90-4f8a-851c-5a07ccf9553f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:35:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b4949ec0-2c1c-47bf-815a-0dee76339e26.gl5ofww9f3.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\b4949ec0-2c1c-47bf-815a-0dee76339e26.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:50:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gl5ofww9f3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/b4949ec0-2c1c-47bf-815a-0dee76339e26.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b4949ec0-2c1c-47bf-815a-0dee76339e26.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\b4949ec0-2c1c-47bf-815a-0dee76339e26.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:50:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b69f7208-6484-4d94-824b-f7abfdb92eea.344dafdxea.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\b69f7208-6484-4d94-824b-f7abfdb92eea.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:40:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "344dafdxea"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/b69f7208-6484-4d94-824b-f7abfdb92eea.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b69f7208-6484-4d94-824b-f7abfdb92eea.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\b69f7208-6484-4d94-824b-f7abfdb92eea.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:40:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b87d39f0-2ee3-41e2-bd3b-cc6389c9d6fd.gl5ofww9f3.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\b87d39f0-2ee3-41e2-bd3b-cc6389c9d6fd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:33:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gl5ofww9f3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/b87d39f0-2ee3-41e2-bd3b-cc6389c9d6fd.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b87d39f0-2ee3-41e2-bd3b-cc6389c9d6fd.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\b87d39f0-2ee3-41e2-bd3b-cc6389c9d6fd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:33:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d03830de-ffc6-4388-9eeb-fe52bc9612a6.gl5ofww9f3.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\d03830de-ffc6-4388-9eeb-fe52bc9612a6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:41:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gl5ofww9f3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d03830de-ffc6-4388-9eeb-fe52bc9612a6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d03830de-ffc6-4388-9eeb-fe52bc9612a6.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\d03830de-ffc6-4388-9eeb-fe52bc9612a6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:41:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d3053d76-cc74-4497-a58d-4b74e55661a8.344dafdxea.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\d3053d76-cc74-4497-a58d-4b74e55661a8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:42:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "344dafdxea"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d3053d76-cc74-4497-a58d-4b74e55661a8.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d3053d76-cc74-4497-a58d-4b74e55661a8.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\d3053d76-cc74-4497-a58d-4b74e55661a8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:42:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/daaa1b62-e735-45ce-b19b-eb1c66edeb34.gl5ofww9f3.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\daaa1b62-e735-45ce-b19b-eb1c66edeb34.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:38:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gl5ofww9f3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/daaa1b62-e735-45ce-b19b-eb1c66edeb34.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/daaa1b62-e735-45ce-b19b-eb1c66edeb34.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\daaa1b62-e735-45ce-b19b-eb1c66edeb34.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:38:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e40a5a4c-2d2b-4600-9cbc-ae225dd95075.gl5ofww9f3.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\e40a5a4c-2d2b-4600-9cbc-ae225dd95075.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:40:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gl5ofww9f3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e40a5a4c-2d2b-4600-9cbc-ae225dd95075.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e40a5a4c-2d2b-4600-9cbc-ae225dd95075.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\e40a5a4c-2d2b-4600-9cbc-ae225dd95075.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:40:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VGHDJoN5iY4K44F0TYPtm+g0zJU17RRbxmdGorrCI7o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f4c40c89-47f8-4515-a964-a6ae3dd65789.344dafdxea.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\f4c40c89-47f8-4515-a964-a6ae3dd65789.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:50:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "344dafdxea"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/f4c40c89-47f8-4515-a964-a6ae3dd65789.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f4c40c89-47f8-4515-a964-a6ae3dd65789.png",
+      "AssetFile": "C:\\Users\\angga\\source\\repos\\Digify\\Digify\\wwwroot\\uploads\\f4c40c89-47f8-4515-a964-a6ae3dd65789.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 05:50:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E0y5LXbJaWgObBssb+b+rAr/blpohZaHeqXniB3drWY="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "DigifyAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/CompanyRegistration": {
+      "post": {
+        "tags": [
+          "CompanyRegistration"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "CompanyName",
+                  "DirectorName",
+                  "Email",
+                  "NPWP",
+                  "PhoneNumber",
+                  "PICName"
+                ],
+                "type": "object",
+                "properties": {
+                  "Id": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "CompanyName": {
+                    "type": "string"
+                  },
+                  "NPWP": {
+                    "type": "string"
+                  },
+                  "DirectorName": {
+                    "type": "string"
+                  },
+                  "PICName": {
+                    "type": "string"
+                  },
+                  "Email": {
+                    "type": "string",
+                    "format": "email"
+                  },
+                  "PhoneNumber": {
+                    "type": "string"
+                  },
+                  "NPWPFilePath": {
+                    "type": "string"
+                  },
+                  "PowerOfAttorneyFilePath": {
+                    "type": "string"
+                  },
+                  "IsInvitationAccessAllowed": {
+                    "type": "boolean"
+                  },
+                  "NPWPFile": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "PowerOfAttorneyFile": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "Id": {
+                  "style": "form"
+                },
+                "CompanyName": {
+                  "style": "form"
+                },
+                "NPWP": {
+                  "style": "form"
+                },
+                "DirectorName": {
+                  "style": "form"
+                },
+                "PICName": {
+                  "style": "form"
+                },
+                "Email": {
+                  "style": "form"
+                },
+                "PhoneNumber": {
+                  "style": "form"
+                },
+                "NPWPFilePath": {
+                  "style": "form"
+                },
+                "PowerOfAttorneyFilePath": {
+                  "style": "form"
+                },
+                "IsInvitationAccessAllowed": {
+                  "style": "form"
+                },
+                "NPWPFile": {
+                  "style": "form"
+                },
+                "PowerOfAttorneyFile": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
